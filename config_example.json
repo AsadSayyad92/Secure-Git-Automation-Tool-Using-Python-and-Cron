@@ -1,0 +1,5 @@
+{
+  "project_dir": "path",
+  "max_changes_per_run": #,
+  "log_file": "path"
+}

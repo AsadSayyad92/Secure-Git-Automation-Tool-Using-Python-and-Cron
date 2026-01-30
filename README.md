@@ -98,7 +98,7 @@ crontab -e
 
 Example (run daily at 11 PM):
 ```
-0 23 * * * /usr/bin/python3 /home/asad/Documents/gith_auto_commit.py >> /home/asad/github.log 2>&1
+0 23 * * * /usr/bin/python3 /path/gith_auto_commit.py >> /path/github.log 2>&1
 ```
 ---
 
